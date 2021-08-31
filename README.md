@@ -6,4 +6,4 @@
 ### 4.Teams and Discipline
 ### 5.Medals won by country
 
-### All descriptive analysis performed with libraries viz.pandas, matplotlib, seaborn.
+### All exploratory analysis performed with libraries viz.pandas, matplotlib, seaborn.
